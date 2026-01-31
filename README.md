@@ -10,6 +10,7 @@ The latest beta builds are available in the **Releases** section of the reposito
 2.  **Installation:**
     *   **Windows:** Download the `.zip` or installer and run `SatisfactoryLayoutTool.exe`.
     *   **Linux/Standalone:** Follow the instructions provided in the release notes for the standalone server.
+    *   **Mac:** Beta Release for Mac tetsers will be provided at a later date. The build is stable but needs a new Mac to export/build the beta version for release.
 3.  **Feedback:** Please report any bugs or feature requests via the repository's **Issues** tab.
 
 ## 🛠 Key Features
