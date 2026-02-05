@@ -6,7 +6,7 @@ Welcome to the beta for the **Nexus (Satisfactory) Planning Tool**. This is a hi
 
 The latest beta builds are available in the **Releases** section of the repository.
 
-1.  **Download:** Navigate to the [Latest Release (v2.0.2)](https://github.com/HandleConsolidated/nexus-factory-planner/releases/tag/v2.0.2).
+1.  **Download:** Navigate to the [Latest Release (v2.0.5)](https://github.com/HandleConsolidated/nexus-factory-planner/releases/tag/v2.0.5). Released on February 5th, 2026.
 2.  **Installation:**
     *   **Windows:** Download the `.zip` or installer and run `SatisfactoryLayoutTool.exe`.
     *   **Linux/Standalone:** Follow the instructions provided in the release notes for the standalone server.
